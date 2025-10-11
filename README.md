@@ -1,2 +1,2 @@
 # simple-fps-game
-Third Unity Game - Simple FPS Game
+Third Unity3D Game - Simple FPS Game
